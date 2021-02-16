@@ -1,0 +1,19 @@
+{
+  "name": "TgYdl bot",
+  "description": "read name.",
+  "keywords": ["TG", "YD"],
+  "repository": "https://github.com/bnsave100/TGyD0.git",
+  "stack": "container",
+  "formation": {"worker": {"quantity": 1, "size": "free"}},
+  "env": {
+    "API_ID": {
+      "description": "Your telegram api id."
+    },
+    "API_HASH": {
+      "description": "Your telegram api hash."
+    },
+    "BOT_TOKEN": {
+      "description": "Your bot_token"
+    }
+  }
+}       
