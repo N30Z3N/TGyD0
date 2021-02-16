@@ -4,7 +4,7 @@ Simple clone of https://t.me/VideoTubeBot.
 
 # Deploy to ibm cloud
 
-[![Deploy to IBM Cloud](https://cloud.ibm.com/devops/setup/deploy/button.png)](https://cloud.ibm.com/devops/setup/deploy?repository=<https://github.com/bnsave100/TGyD0>)
+[![Deploy to IBM Cloud](https://cloud.ibm.com/devops/setup/deploy/button.png)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/bnsave100/TGyD0&branch=master)
 
 
 # Dependencies
