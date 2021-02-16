@@ -4,7 +4,7 @@ Simple clone of https://t.me/VideoTubeBot.
 
 # Deploy to ibm cloud
 
-<a href="https://cloud.ibm.com/devops/setup/deploy?repository=<https://github.com/bnsave100/ytb-downloader.git>&branch=<master>"><img src="https://cloud.ibm.com/devops/setup/deploy/button.png" alt="Deploy to IBM Cloud"></a>
+<a href="https://cloud.ibm.com/devops/setup/deploy?repository=<https://github.com/bnsave100/TGyD0.git>&branch=<master>"><img src="https://cloud.ibm.com/devops/setup/deploy/button.png" alt="Deploy to IBM Cloud"></a>
 
 # Dependencies
 Install `ffmpeg`, `mediainfo` and `python3`.
